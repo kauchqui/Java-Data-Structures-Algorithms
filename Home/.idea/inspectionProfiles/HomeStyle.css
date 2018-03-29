@@ -1,0 +1,23 @@
+
+body {
+    background-image: url("kevin.jpg");
+
+}
+h2, p{
+    align-content: center;
+    width: 320px;
+    padding: 10px;
+    border: 5px solid gray;
+    margin: 0;
+    text-align: center;
+    color:red;
+}
+h1 {
+    align-content: center;
+    width: 320px;
+    padding: 10px;
+    border: 5px solid gray;
+    margin: 0;
+    text-align: center;
+    color:red;
+}
